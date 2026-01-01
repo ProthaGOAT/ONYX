@@ -24,7 +24,7 @@ const LandingPage = () => {
           <span className="text-xs font-mono text-primary">v2.0 NOW LIVE • GLOBAL CURRENCY SUPPORT</span>
         </div>
         
-        <h2 className="text-5xl md:text-7xl font-bold font-display leading-tight mb-6">
+        <h2 className="text-4xl md:text-7xl font-bold font-display leading-tight mb-6">
           Master Your Wealth <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary via-secondary to-purple-500">In Any Currency.</span>
         </h2>
